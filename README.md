@@ -4,7 +4,7 @@
 </h1>
 
 This repository provides a **template** for integrating **Axeptio** as a **Consent Management Platform (CMP)** with **Google Tag Manager (GTM) Server-Side**. The goal of this template is to streamline the process of importing and configuring **Axeptio** within a GTM Server-Side setup, simplifying consent management for websites.
-
+<br><br>
 ## 📑 Table of Contents
 
 1. [About Axeptio](#about-axeptio)
@@ -58,7 +58,7 @@ Once the template is successfully imported, follow these steps to configure the 
 
 ## Additional Resources
 For more detailed instructions and configuration tips, refer to the official documentation:
-- [Axepo - Consent Management]](https://www.axept.io/)
+- [Axepo - Consent Management](https://www.axept.io/)
 - [GTM Server-Side - Google Documentation](https://developers.google.com/tag-platform/tag-manager/server-side)
 
 <br><br>
